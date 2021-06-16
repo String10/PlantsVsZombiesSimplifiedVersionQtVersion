@@ -1,0 +1,70 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file alias="interfaceBackground">imgs/interface.png</file>
+        <file alias="coverBackground">imgs/cover.png</file>
+        <file alias="plantcard1">imgs/plantCardPeashooter.png</file>
+        <file alias="plantcard0">imgs/plantCardSunflower.png</file>
+        <file alias="plantcard7">imgs/plantCardCherryBomb.png</file>
+        <file alias="plantcard8">imgs/plantCardGarlic.png</file>
+        <file alias="plantcard9">imgs/plantCardPumpkin.png</file>
+        <file alias="plantcard2">imgs/plantCardRepeater.png</file>
+        <file alias="plantcard3">imgs/plantCardSnowPea.png</file>
+        <file alias="plantcard6">imgs/plantCardSquash.png</file>
+        <file alias="plantcard5">imgs/plantCardTallNut.png</file>
+        <file alias="plantcard4">imgs/plantCardWallNut.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="chiller">fonts/CHILLER.TTF</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file alias="siren">audio/siren.wav</file>
+        <file alias="bgm">audio/backgroundmusic.wav</file>
+        <file alias="points">audio/points.wav</file>
+        <file alias="awooga">audio/awooga.wav</file>
+        <file alias="setplant">audio/setplant.wav</file>
+        <file alias="notenoughsun">audio/notenoughsun.wav</file>
+        <file alias="seedlift">audio/seedlift.wav</file>
+        <file alias="kernelpult">audio/kernelpult.wav</file>
+        <file alias="shoop">audio/shoop.wav</file>
+        <file alias="chomp0">audio/chomp0.wav</file>
+        <file alias="chomp1">audio/chomp1.wav</file>
+    </qresource>
+    <qresource prefix="/gifs">
+        <file alias="peashooter">gifs/peashooter.gif</file>
+        <file alias="sunflower">gifs/sunflower.gif</file>
+        <file alias="cherrybomb">gifs/cherrybomb.gif</file>
+        <file alias="garlic">gifs/garlic.gif</file>
+        <file alias="peabulletfreezing">gifs/peabulletfreezing.gif</file>
+        <file alias="peabulletnormal">gifs/peabulletnormal.gif</file>
+        <file alias="pumpkinhead0">gifs/pumpkinhead0.gif</file>
+        <file alias="pumpkinhead1">gifs/pumpkinhead1.gif</file>
+        <file alias="repeater">gifs/repeater.gif</file>
+        <file alias="snowpea">gifs/snowpea.gif</file>
+        <file alias="squash">gifs/squash.gif</file>
+        <file alias="tallnut0">gifs/tallnut0.gif</file>
+        <file alias="tallnut1">gifs/tallnut1.gif</file>
+        <file alias="tallnut2">gifs/tallnut2.gif</file>
+        <file alias="wallnut0">gifs/wallnut0.gif</file>
+        <file alias="wallnut1">gifs/wallnut1.gif</file>
+        <file alias="wallnut2">gifs/wallnut2.gif</file>
+        <file alias="normalzombie0">gifs/normalzombie0.gif</file>
+        <file alias="normalzombie1">gifs/normalzombie1.gif</file>
+        <file alias="normalzombie2">gifs/normalzombie2.gif</file>
+        <file alias="normalzombieattack">gifs/normalzombieattack.gif</file>
+        <file alias="coneheadzombie">gifs/coneheadzombie.gif</file>
+        <file alias="coneheadzombieattack">gifs/coneheadzombieattack.gif</file>
+        <file alias="newspaperzombieattack0">gifs/newspaperzombieattack0.gif</file>
+        <file alias="newspaperzombieattack1">gifs/newspaperzombieattack1.gif</file>
+        <file alias="newspaperzombiewalk0">gifs/newspaperzombiewalk0.gif</file>
+        <file alias="newspaperzombiewalk1">gifs/newspaperzombiewalk1.gif</file>
+        <file alias="polevaultingzombieattack">gifs/polevaultingzombieattack.gif</file>
+        <file alias="polevaultingzombierun">gifs/polevaultingzombierun.gif</file>
+        <file alias="polevaultingzombiewalk">gifs/polevaultingzombiewalk.gif</file>
+        <file alias="jackintheboxzombiegoout">gifs/jackintheboxzombiegoout.gif</file>
+        <file alias="jackintheboxzombiewalk">gifs/jackintheboxzombiewalk.gif</file>
+        <file alias="catapultzombie">gifs/catapultzombie.gif</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="icon">icon/icon.ico</file>
+    </qresource>
+</RCC>
