@@ -1,6 +1,6 @@
 # Plants Vs. Zombies Simplified Version
 
-<p align = "right">单博，201220120</p>
+<p align = "right">StringMax，*********</p>
 
 <p align = "right">南京大学计算机科学与技术系</p>
 
